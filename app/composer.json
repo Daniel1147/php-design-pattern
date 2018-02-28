@@ -1,0 +1,13 @@
+{
+    "require": {
+        "php-di/php-di": "6.*",
+        "doctrine/annotations": "^1.6"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "DesignPattern\\": "src/"
+        }
+    }
+}
